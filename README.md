@@ -1,8 +1,10 @@
 # The City Blocks of Beijing in GeoJSON format
 
+![beijing_city_blocks_2016.svg](./lets-plot-images/beijing_city_blocks_2016.svg)
+
 ### Content of this repository
                               
-- `data/DT39` folder
+- ### `data/DT39` folder
 
 The **"Boundaries and blocks in redefined cities of China 2011 & 2016"** dataset.
          
@@ -20,11 +22,11 @@ this repository only stores a compressed copy of the `redefined_cities_2016_bloc
 `redefined_cities_2016_blocks.zip`.
 
 
-- `output/beijing_city_blocks_2016.geojson`
+- ### `output/beijing_city_blocks_2016.geojson` (rendered on the figure above)
   
 A GeoJSON file containing 4,401 Beijing city block (2016).
 
-- `cities_and_blocks.ipynb`
+- ### `cities_and_blocks.ipynb`
 
 A Jupyter notebook with a Python code which extracts the city blocks of Beijing from the
 `redefined_cities_2016_blocks` shapefile.
