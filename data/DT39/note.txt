@@ -1,0 +1,17 @@
+
+The dataset "Redefined Cities" depicts the redefined central regions of natural cities across China using emerging spatial big data. The dataset includes four shapefile data: redefined cities in 2011 and 2016, and corresponding blocks within cities. The redefined cities and blocks are computed with the method of redefining cities (Song, Y. et al. 2018) and points of interest (POIs) data. 
+The brief descriptions and attributes of four shapefile data are listed below.
+(1) Redefined cities in 2011
+The data consists of 2005 redefined cities with the total area of 0.167 million square kilometres. Five attributes are available for the data, including ID of redefined cities (CityID), area (Areakm2), POI density (PoiDens), density of road junctions (JuncDens) and population density (PopDens). 
+(2) Blocks of redefined cities in 2011
+The data consists of 78 thousand blocks within the 2005 redefined cities. It includes two attributes: the corresponding ID of redefined cities (CityID) and areas of blocks (Aream2). 
+(3) Redefined cities in 2016
+The data consists of 4678 redefined cities with the total area of 0.726 million square kilometres. Three attributes are available for the data, including ID of redefined cities (CityID), area (Areakm2) and POI density (PoiDens).
+(4) Blocks of redefined cities in 2016
+The data consists of 187 thousand blocks within the 4678 redefined cities. It includes two attributes: the corresponding ID of redefined cities (CityID) and areas of blocks (Aream2). 
+
+When authors use the data they should cite the following publication:
+Song, Yongze, Ying Long, Peng Wu, and Xiangyu Wang. "Are all cities with similar urban form or not? Redefining cities with ubiquitous points of interest and evaluating them with indicators at city and block levels in China." International Journal of Geographical Information Science 32, no. 12 (2018): 2447-2476. Doi: 10.1080/13658816.2018.1511793
+
+
+
